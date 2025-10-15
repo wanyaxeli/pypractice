@@ -1,6 +1,6 @@
 print('hello word')
 num=5
 if num % 2 ==0:
-    print('even is number')
+    print('even  number')
 else :
-    print('odd is number')
+    print('odd  number')
